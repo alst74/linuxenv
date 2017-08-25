@@ -1,4 +1,4 @@
-PROXY="none"
+PROXY="https://proxysrv:8080"
 NOPROXY="example.com,localhost,127.0.0.1"
 
 proxy () {
